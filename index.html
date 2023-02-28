@@ -5,7 +5,20 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<script type="text/javascript" src="js/upload.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 </head>
+<script>
+	$(document).ready(function(){
+		$("#img1").click(function(){
+			$('body').css('background-image', 'url(imgs/background2.gif)');
+			 
+			$("#img1").dblclick(function(){
+			$('body').css('background-image', 'url(imgs/background1.gif)');
+			
+		})
+		})
+	})
+</script>
 <body>
      <div id="all-site">
      	<p id="paypal"></p>
