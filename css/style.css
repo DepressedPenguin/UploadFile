@@ -3,7 +3,9 @@
 	margin: 0px;
 }
 body{
-	background-color: #0A0806;
+	 background-image: url(../imgs/background.gif);
+	 background-repeat: no-repeat;
+	 background-size: cover;
 }
 
 #all-site{
