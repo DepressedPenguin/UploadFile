@@ -1,0 +1,203 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #0A0806;
+}
+
+#all-site{
+	width: 400px;
+	margin: auto;
+	height: 800px;
+	background-color: white;
+}
+
+#logo{
+	width: 100%;
+	height: 290px;
+	border:3px solid black;
+	background-color: black;
+	margin: auto;
+	text-align: center;
+	border-radius: 2px;
+}
+
+#select1{
+	text-align: center;
+    display: inline-block;
+    padding-right: 0px;
+    color: black;
+    width: 60px;
+	height: 30px;
+	margin-top: 0px;
+	font-size: 18px;
+	border-radius: 10px;
+	padding: 2px;
+	font-family: monospace;
+}
+
+
+#img1{
+	text-align: center;
+}
+
+#nav-bar{
+	width: 100%;
+	height: 50px;
+	text-align: center;
+}
+
+#ul1{
+
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+
+}
+
+#li1{
+    text-align: center;
+    display: inline-block;
+    margin-left: 15px;
+    padding-left: 5px;
+    color: black;
+    width: 110px;
+	height: 20px;
+	font-size: 20px;
+	border:3px solid white;
+	border-radius: 10px;
+	padding: 5px;
+	font-family: monospace;
+	background-color: white;
+}
+
+#li2{
+    text-align: center;
+    display: inline-block;
+    margin-left: 15px;
+    padding-left: 5px;
+    color: black;
+    width: 110px;
+	height: 20px;
+	font-size: 20px;
+	border:3px solid white;
+	border-radius: 10px;
+	padding: 5px;
+	font-family: monospace;
+	background-color: white;
+}
+
+#btn3{
+	text-align: center;
+    display: inline-block;
+    margin-left: 15px;
+    padding-left: 5px;
+    color: black;
+    width: 110px;
+	height: 20px;
+	margin: auto;
+	font-size: 20px;
+	border: none;
+	font-family: monospace;
+	background-color: white;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	border-bottom: 3px solid black;
+}
+
+#cont{
+	width: 380px;
+	height: 400px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+#cont-h1{
+	text-align: center;
+	font-family: monospace;
+	background-color: gold:;
+	border: 3px solid black;
+	border-radius: 5px;
+	box-shadow: 5px 5px black;
+}
+#ann{
+	width: 100%;
+	height: 20px;
+	font-size: 18px;
+	margin: auto;
+	border:1px solid black;
+	color: black;
+	font-family: monospace;
+	text-align: center;
+	padding: 5px;
+}
+
+#cont-p{
+	text-align: center;
+	margin-top: 15px;
+	font-family: monospace;
+	font-size: 15px;
+}
+#upload{
+	border:5px solid #0A0001;
+	width: 150px;
+	height: 150px;
+	margin: auto;
+	text-align: center;
+    margin-top: 20px;
+    padding-top: 50px;
+    font-size: monospace;
+    background-color: #0A0806;
+    border-radius: 20px;
+}
+
+#file-input{
+	font-size: 30px;
+	color: black;
+	font-family: monospace;
+	border-radius: 5px;
+}
+
+#paypal{
+	border:3px solid black;
+	height: 20px;
+	width: 400px;
+	color: green;
+	font-size: 18px;
+    font-family: monospace;
+    text-align: center;
+}
+    footer{
+     width: 400px;
+     border:3px solid black;
+     text-align: center;
+     margin: auto;
+     padding: 0px;
+     background-color: white;
+     font-family: monospace;
+    }
+    .lanngs{
+    	width: 80px;
+    	height: 126px;
+    	float: right;
+    	display: block;
+    }
+
+    .btnlang{
+    	height: 20px;
+    	width: 60px;
+    	display: block;
+    	margin-left: 38px;
+    	margin-bottom: 5px;
+    	background-color: white;
+    	font-family: monospace;
+    	border-radius: 5px;
+
+    }
